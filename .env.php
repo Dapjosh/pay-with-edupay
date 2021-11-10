@@ -1,0 +1,9 @@
+<?php
+
+define('PUBLIC_KEY','FLWPUBK-48b91292f8f370a72540ef5ffb6f6736-X');
+
+define('SECRET_KEY','FLWSECK-acbdf218765f8f4f4f14ca93874b39ee-X');
+
+/* define('PUBLIC_KEY','FLWPUBK_TEST-0640bdbeb34c1e6ab537b6b36c3c00b4-X');
+
+define('SECRET_KEY','FLWSECK_TEST-c1742ff856b9508dc61fa5f8c7a95448-X'); */
